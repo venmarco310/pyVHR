@@ -114,21 +114,21 @@ dependencies:
     - scipy==1.7.0
     - tqdm==4.62.3
     - tensorflow==2.5.0
-    - libunistring=0.9.10
-    - gnutls=3.6.15
-    - libtasn1=4.16.0
-    - openh264=2.1.0
-    - libuuid=2.32.1
-    - nettle=3.7.3
-    - nspr=4.30
-    - ld_impl_linux-64=2.35.1
-    - libidn2=2.3.2
-    - libstdcxx-ng=11.2.0
-    - libgomp=11.2.0
-    - nss=3.69
-    - libgcc-ng=11.2.0
-    - lame=3.100
-    - ncurses=6.2
-    - _openmp_mutex=4.5
-    - gmp=6.2.1
-    - readline=8.1
+    - libunistring==0.9.10
+    - gnutls==3.6.15
+    - libtasn1==4.16.0
+    - openh264==2.1.0
+    - libuuid==2.32.1
+    - nettle==3.7.3
+    - nspr==4.30
+    - ld_impl_linux-64==2.35.1
+    - libidn2==2.3.2
+    - libstdcxx-ng==11.2.0
+    - libgomp==11.2.0
+    - nss==3.69
+    - libgcc-ng==11.2.0
+    - lame==3.100
+    - ncurses==6.2
+    - _openmp_mutex==4.5
+    - gmp==6.2.1
+    - readline==8.1
